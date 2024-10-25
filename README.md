@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alondra Ferra</h1>
-<h3 align="center">Skilled in international trade regulations, logistics coordination, and import/export procedures. Experienced in market analysis, contract negotiation, and managing trade documentation. Adept at understanding global markets and applying compliance standards to ensure smooth and efficient trade operations.</h3>
+<h3 align="center">I am driven by a passion for continuous learning and applying data-driven insights to make better business decisions. My goal is to further my career in data analysis, using my skills to help organizations optimize processes and develop effective strategies. I'm eager to take on new challenges and contribute to innovative projects in the field of data analysis.</h3>
 
 - 🌱 I’m currently learning **I am learning Data Analysis in a TripleTen Bootcamp**
 
