@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alondra Ferra</h1>
-<h3 align="center">I am driven by a passion for continuous learning and applying data-driven insights to make better business decisions. My goal is to further my career in data analysis, using my skills to help organizations optimize processes and develop effective strategies. I'm eager to take on new challenges and contribute to innovative projects in the field of data analysis.</h3>
+<h3 align="center">💡 <n>Data Analyst | Business Intelligence | Process Optimization</n> 
+
+I am a results-driven Data Analyst with a strong background in business management, process optimization, and data-driven decision-making. I specialize in Python, SQL, Tableau, and Business Intelligence, leveraging data insights to enhance efficiency and drive strategic growth.
+
+🚀 I enjoy working on projects that involve data visualization, exploratory data analysis (EDA), and A/B testing, always aiming to turn complex data into actionable insights.
+
+📊 My experience includes optimizing operations, improving customer experiences, and supporting business strategies through data. I’m always exploring new ways to refine my analytical skills and stay up to date with the latest trends in data analytics.</h3>
 
 - 🌱 I’m currently learning **I am learning Data Analysis in a TripleTen Bootcamp**
 
