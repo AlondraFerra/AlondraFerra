@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alondra Ferra</h1>
+<h1 align="center">Hi, I'm Alondra Ferra 👋</h1>
 <h2 align="center">💡 Data Analyst | Business Intelligence | Process Optimization</h2>
 
 <h3 align="center">I am a results-driven Data Analyst with a strong background in business management, process optimization, and data-driven decision-making. I specialize in Python, SQL, Tableau, and Business Intelligence, leveraging data insights to enhance efficiency and drive strategic growth.
