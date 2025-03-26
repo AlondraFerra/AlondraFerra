@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alondra Ferra</h1>
-<h3 align="center">💡 <n>Data Analyst | Business Intelligence | Process Optimization</n> 
+<h2 align="center">💡 Data Analyst | Business Intelligence | Process Optimization</h2>
 
-I am a results-driven Data Analyst with a strong background in business management, process optimization, and data-driven decision-making. I specialize in Python, SQL, Tableau, and Business Intelligence, leveraging data insights to enhance efficiency and drive strategic growth.
+<h3 align="center">I am a results-driven Data Analyst with a strong background in business management, process optimization, and data-driven decision-making. I specialize in Python, SQL, Tableau, and Business Intelligence, leveraging data insights to enhance efficiency and drive strategic growth.
 
 🚀 I enjoy working on projects that involve data visualization, exploratory data analysis (EDA), and A/B testing, always aiming to turn complex data into actionable insights.
 
