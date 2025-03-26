@@ -3,6 +3,7 @@
 
 <h3 align="center">I am a results-driven Data Analyst with a strong background in business management, process optimization, and data-driven decision-making. I specialize in Python, SQL, Tableau, and Business Intelligence, leveraging data insights to enhance efficiency and drive strategic growth.
 
+
 🚀 I enjoy working on projects that involve data visualization, exploratory data analysis (EDA), and A/B testing, always aiming to turn complex data into actionable insights.
 
 📊 My experience includes optimizing operations, improving customer experiences, and supporting business strategies through data. I’m always exploring new ways to refine my analytical skills and stay up to date with the latest trends in data analytics.</h3>
