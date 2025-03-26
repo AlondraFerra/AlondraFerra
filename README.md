@@ -7,13 +7,13 @@
 
 📊 My experience includes optimizing operations, improving customer experiences, and supporting business strategies through data. I’m always exploring new ways to refine my analytical skills and stay up to date with the latest trends in data analytics.</h3>
 
-- 🌱 I’m currently learning **I am learning Data Analysis in a TripleTen Bootcamp**
+- 🌱 **Let's connect and collaborate on data-driven solutions!**
 
 - 👨‍💻 All my data visualization projects are available at: [https://public.tableau.com/app/profile/alondra.ferra/vizzes](https://public.tableau.com/app/profile/alondra.ferra/vizzes)
 
-- 📫 How to reach me **alondra.ferra@gmail.com**
+- 📫 How to reach me: **alondra.ferra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fmfObGi3q2XpROJCW-53pIGBIZWIziqh/view?usp=sharing](https://drive.google.com/file/d/1fmfObGi3q2XpROJCW-53pIGBIZWIziqh/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1fmfObGi3q2XpROJCW-53pIGBIZWIziqh/view?usp=sharing](https://drive.google.com/file/d/1fmfObGi3q2XpROJCW-53pIGBIZWIziqh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
